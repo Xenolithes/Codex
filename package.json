@@ -1,0 +1,28 @@
+{
+  "name": "codex",
+  "version": "1.0.0",
+  "description": "A TS react component library",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xenolithes/Codex.git"
+  },
+  "author": "Evan Schweitzer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xenolithes/Codex/issues"
+  },
+  "homepage": "https://github.com/Xenolithes/Codex#readme",
+  "types": "dist/index.d.ts",
+  "dependencies": {},
+  "peerDependencies": {
+    "react": ">=16.12.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.19",
+    "react": "^16.12.0"
+  }
+}
